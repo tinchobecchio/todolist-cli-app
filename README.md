@@ -1,0 +1,1 @@
+Aplicacion de consola interactiva donde se puede crear un listado de tareas para hacer, marcarlas como pendientes o completadas y eliminarlas.
